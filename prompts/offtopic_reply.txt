@@ -1,0 +1,6 @@
+This comment is off-topic. Write a respectful moderator reply suggesting the user keep discussions relevant to the main post, and optionally guide them to a better place to continue. Avoid using any placeholders like [Your Name] or [Platform Name].
+Keep the tone professional but human. End with a short thank you.
+
+Comment:
+{comment}
+

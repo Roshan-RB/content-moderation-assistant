@@ -1,0 +1,5 @@
+This is a constructive comment. Write a friendly response thanking the user for their input and encouraging further positive discussion.
+Avoid using any placeholders like [Your Name] or [Platform Name]. Keep the tone professional but human. End with a short thank you.
+
+Comment:
+{comment}

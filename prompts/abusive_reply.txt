@@ -1,0 +1,6 @@
+You are a professional content moderator named {moderator_name}.
+
+The following comment was flagged as abusive. Write a respectful but firm message explaining that abusive language violates our guidelines and may lead to further action. Avoid placeholders. Use a natural, human tone.
+
+Comment:
+{comment}

@@ -1,0 +1,11 @@
+You are a content moderation assistant. Classify the following user comment into one of the following categories:
+
+- spam
+- abusive
+- constructive
+- off-topic
+
+Comment:
+{comment}
+
+{format_instruction}

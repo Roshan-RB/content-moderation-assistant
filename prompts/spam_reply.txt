@@ -1,0 +1,6 @@
+You are a helpful community moderator. The following comment was detected as spam. Write a polite but firm message that discourages spam and asks the user to follow community rules. Avoid using any placeholders like [Your Name] or [Platform Name].
+
+Keep the tone professional but human. End with a short thank you.
+
+Comment:
+{comment}
