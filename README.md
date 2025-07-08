@@ -103,6 +103,10 @@ content-moderation-assistant/
 └── README.md
 ```
 
+![image](https://github.com/user-attachments/assets/aa47524a-e826-4d03-9959-ad341285d2a2)
+
+![image](https://github.com/user-attachments/assets/7ac27b7d-918a-4d40-a6cc-33a0ed6f290b)
+
 ---
 
 ## 🔮 Future Ideas
